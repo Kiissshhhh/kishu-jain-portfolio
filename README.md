@@ -19,9 +19,9 @@ A responsive single-page portfolio/resume built with HTML, CSS and vanilla JavaS
 - Verify the experience dates, role details, education details and skill list.
 - Update the page title and description if desired.
 
-## Download a PDF résumé
+## One-page résumé PDF
 
-Open the website and click **Download résumé**. In the print dialog, choose **Save as PDF**. For best results, enable background graphics and use A4 paper. You can also use Ctrl+P / Cmd+P.
+The homepage includes two direct links to the PDF stored in the repository root: **View one-page CV** opens `KishuJain_Resume.pdf` in a new browser tab, and **Download PDF** downloads the same file. Keep the filename and capitalization exactly as shown so the links continue to work on GitHub Pages.
 
 ## Publish with GitHub Pages
 
